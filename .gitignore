@@ -1,3 +1,7 @@
+dataset/*
+dataset/test_set/*
+dataset/training_set/*
+dataset/single_prediction/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
